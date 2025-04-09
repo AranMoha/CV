@@ -26,7 +26,7 @@ publishDate: '2025-04-08T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 International Workshop on Human-Friendly Robotics*
+publication: In *2024 VDI Mechatroniktagung*
 
 abstract: Parallel robots (PR) offer potential for human-robot collaboration (HRC) due to their lower moving masses and higher speeds. However, the parallel leg chains increase the risks of collision and clamping. In this work, these hazards are described by kinematics and kinetostatics models to minimize them as objective functions by a combined structural and dimensional synthesis in a particle-swarm optimization. In addition to the risk of clamping within and between kinematic chains, the back-drivability is quantified to theoretically guarantee detectability via motor current. Another HRC-relevant objective function is the largest eigenvalue of the mass matrix formulated in the operational-space coordinates to consider collision effects. Multi-objective optimization leads to different Pareto-optimal PR structures. The results show that the optimization leads to significant improvement of the HRC criteria and that a Hexa structure (6-RUS) is to be favored concerning the objective functions and due to its simpler joint structure.
 

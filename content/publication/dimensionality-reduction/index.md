@@ -1,20 +1,25 @@
 ---
-title: 'Towards Optimized Parallel Robots for Human-Robot Collaboration by Combined Structural and Dimensional Synthesis'
+title: 'Physical-oriented and machine learning-based emission modeling in a diesel compression ignition engine: Dimensionality reduction and regression'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Thomas Seel
-  - Moritz Schappler
+  - Aran Mohammad
+  - Reza Rezaei
+  - Christopher Hayduk
+  - Thaddaeus Delebinski
+  - Saeid Shahpouri
+  - Mahdi Shahbakhti
+
 
  # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-03-14T00:00:00Z'
+date: '2022-01-06T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -23,12 +28,12 @@ publishDate: '2025-04-08T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 International Workshop on Human-Friendly Robotics*
+publication: In *2022 International Journal of Engine Research*
 
-abstract: Parallel robots (PR) offer potential for human-robot collaboration (HRC) due to their lower moving masses and higher speeds. However, the parallel leg chains increase the risks of collision and clamping. In this work, these hazards are described by kinematics and kinetostatics models to minimize them as objective functions by a combined structural and dimensional synthesis in a particle-swarm optimization. In addition to the risk of clamping within and between kinematic chains, the back-drivability is quantified to theoretically guarantee detectability via motor current. Another HRC-relevant objective function is the largest eigenvalue of the mass matrix formulated in the operational-space coordinates to consider collision effects. Multi-objective optimization leads to different Pareto-optimal PR structures. The results show that the optimization leads to significant improvement of the HRC criteria and that a Hexa structure (6-RUS) is to be favored concerning the objective functions and due to its simpler joint structure.
+abstract: The development of internal combustion engines is affected by the exhaust gas emissions legislation and the striving to increase performance. This demands for engine-out emission models that can be used for engine optimization for real driving emission controls. The prediction capability of physically and data-driven engine-out emission models is influenced by the system inputs, which are specified by the user and can lead to an improved accuracy with increasing number of inputs. Thereby the occurrence of irrelevant inputs becomes more probable, which have a low functional relation to the emissions and can lead to overfitting. Alternatively, data-driven methods can be used to detect irrelevant and redundant inputs. In this work, thermodynamic states are modeled based on 772 stationary measured test bench data from a commercial vehicle diesel engine. Afterward, 37 measured and modeled variables are led into a data-driven dimensionality reduction. For this purpose, approaches of supervised learning, such as lasso regression and linear support vector machine, and unsupervised learning methods like principal component analysis and factor analysis are applied to select and extract the relevant features. The selected and extracted features are used for regression by the support vector machine and the feedforward neural network to model the NOx, CO, HC, and soot emissions. This enables an evaluation of the modeling accuracy as a result of the dimensionality reduction. Using the methods in this work, the 37 variables are reduced to 25, 22, 11, and 16 inputs for NOx, CO, HC, and soot emission modeling while maintaining the accuracy. The features selected using the lasso algorithm provide more accurate learning of the regression models than the extracted features through principal component analysis and factor analysis. This results in test errors RMSETe for modeling NOx, CO, HC, and soot emissions 19.22 ppm, 6.46 ppm, 1.29 ppm, and 0.06 FSN, respectively.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,8 +49,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2408.15831'
-url_code: 'https://aranmoha.github.io/SafePR/20_planar_parallel_robot/#structure'
+url_pdf: 'https://journals.sagepub.com/doi/full/10.1177/14680874211070736'
+# url_code: 'https://aranmoha.github.io/SafePR/20_planar_parallel_robot/#structure'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
