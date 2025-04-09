@@ -175,6 +175,6 @@ work:
 
 ## About Me
 
-I am a robotics engineer working at Institute of Mechatronic Systems, Leibniz University Hannover.
+I am a robotics engineer working at [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/en/), Leibniz University Hannover.
 
-My fascination with modeling and controlling technical systems to create meaningful impact has driven me since my undergraduate studies - and continues to guide my professional journey. This motivation has deepened my curiosity and led me to develop methods for perception and reactive safety strategies in robotic systems, focusing on real-time modeling and interaction control.
+My fascination with modeling and controlling technical systems to create meaningful impact has driven me since my undergraduate studies - and continues to guide my professional journey. This motivation has deepened my curiosity and led me to develop [open-source](https://aranmoha.github.io/SafePR/) methods for perception and reactive safety strategies in robotic systems, focusing on real-time modeling and interaction control.
