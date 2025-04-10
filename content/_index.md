@@ -51,16 +51,6 @@ sections:
           - project
         exclude_featured: false
     design:
-      view: list
-  - block: collection
-    id: papers
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
       view: article-grid
       columns: 3
   - block: collection
@@ -73,6 +63,17 @@ sections:
     design:
       view: article-grid
       columns: 1
+  - block: collection
+    id: papers
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
   # - block: collection
   #   id: news
   #   content:

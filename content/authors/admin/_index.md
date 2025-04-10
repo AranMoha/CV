@@ -31,12 +31,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:aranmoham@gmail.com'
+    url: 'mailto:aran.mohammad@imes.uni-hannover.de'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/AranMoha
   - icon: brands/linkedin
-    url: www.linkedin.com/in/aran-mohammad
+    url: https://www.linkedin.com/in/aran-mohammad/
   - icon: academicons/google-scholar
     url: https://scholar.google.de/citations?user=4QArKVIAAAAJ&hl=de
 
