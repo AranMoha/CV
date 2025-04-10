@@ -1,5 +1,5 @@
 ---
-title: GRC 2025 - 2nd Poster Presentation 
+title: Poster Presentation on Investigation of Transfer Learning in Contact-Body Classification for Human-Robot Collaboration with Parallel Robots
 
 event: 1st German Robotics Conference 2025
 event_url: https://robotics-institute-germany.de/event/first-german-robotics-conference/

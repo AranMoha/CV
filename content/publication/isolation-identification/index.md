@@ -51,7 +51,7 @@ url_code: 'https://aranmoha.github.io/SafePR/20_planar_parallel_robot/#structure
 # url_project: ''
 # url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtu.be/xD6Zaj6p1f8?si=buRTt7Sk4SaDFj5j'
+# url_video: 'https://youtu.be/xD6Zaj6p1f8?si=buRTt7Sk4SaDFj5j'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -75,6 +75,13 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+
+<iframe width="645" height="362" src="https://youtube.com/embed/xD6Zaj6p1f8?si=FLHMEpotQ-BkUukG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style="margin-top: 0.5rem; font-size: 0.95rem; color: #555;">
+  Video: Published results on collision localization and identification
+</p>
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.

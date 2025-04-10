@@ -1,5 +1,5 @@
 ---
-title: VDIM 2023 - Poster Presentation of submitted paper
+title: Presentation on Optimized Parallel Robots for Human-Robot Collaboration by Combined Structural and Dimensional Synthesis
 
 event: 2024 VDI Mechatroniktagung
 event_url: https://www.vdi-mechatroniktagung.rwth-aachen.de/cms/~zegyn/vdi-mechatroniktagung/

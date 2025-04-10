@@ -1,10 +1,10 @@
 ---
-title: GRC 2025 - 1st Poster Presentation 
+title: Poster Presentation on Combining Proprioceptive-Data-Driven Algorithms with Physical Modeling for Contact Detection and Reaction of Safe Parallel Robots
 
 event: 1st German Robotics Conference 2025
 event_url: https://robotics-institute-germany.de/event/first-german-robotics-conference/
 
-location: Nuremberg , Germany
+location: Nuremberg, Germany
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford

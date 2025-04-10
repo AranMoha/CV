@@ -1,5 +1,5 @@
 ---
-title: IROS 2023 - Poster Presentation of 1st submitted paper
+title: Poster Presentation on Collision Isolation and Identification Using Proprioceptive Sensing for Parallel Robots to Enable Human-Robot Collaboration
 
 event: 2023 IEEE International Conference on Robotics and Automation
 # event_url: 

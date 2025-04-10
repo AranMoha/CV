@@ -6,8 +6,7 @@
 # Website name
 title: Aran Mohammad
 # Website URL
-# baseURL: 'https://example.com/'
-baseURL: 'https://aranmoha.github.io/'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE

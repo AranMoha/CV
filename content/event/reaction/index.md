@@ -1,5 +1,5 @@
 ---
-title: IROS 2023 - Poster Presentation of 2nd submitted paper
+title: Poster Presentation on Safe Collision and Clamping Reaction for Parallel Robots During Human-Robot Collaboration
 
 event: 2023 IEEE International Conference on Robotics and Automation
 # event_url: 

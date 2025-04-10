@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence Day 2024 - Poster Presentation 
+title: Poster Presentation on Machine Learning with Physically Modeled Features for Human-Robot Collaboration
 
 event: Artificial Intelligence Day at the Leibniz University Hannover
 event_url: https://www.ai.uni-hannover.de/de/forschung/ai-luh-event-2024

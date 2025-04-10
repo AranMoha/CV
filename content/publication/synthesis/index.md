@@ -45,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2408.15831'
-url_code: 'https://aranmoha.github.io/SafePR/20_planar_parallel_robot/#structure'
+# url_code: 'https://aranmoha.github.io/SafePR/20_planar_parallel_robot/#structure'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
