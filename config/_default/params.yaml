@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald # Options include blue, cyan, green, indigo, purple, red, rose, sky, teal, and zinc.
+  color: emerald # Options include blue, cyan, emerald, green, indigo, purple, red, rose, sky, teal, and zinc.
 
 
 # SEO
@@ -34,7 +34,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: "Aran Mohammad"
 
