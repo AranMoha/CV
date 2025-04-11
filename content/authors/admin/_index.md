@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Reserach Associate
+role: Robotics & AI Enginner
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:aran.mohammad@imes.uni-hannover.de'
+    url: 'mailto:aranmoham@gmail.de'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/AranMoha
