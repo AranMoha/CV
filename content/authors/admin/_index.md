@@ -48,7 +48,7 @@ interests:
   - Modeling
 
 education:
-  - area: PhD in Robotics & Machine Learning
+  - area: Dr.-Ing. in Robotics & Machine Learning
     institution: Leibniz University Hannover
     date_start: 2021-03-01
     date_end: ''
@@ -77,11 +77,12 @@ work:
     date_start: 2021-03-01
     date_end: ''
     summary: |2-
-      - Developed [open-source](https://aranmoha.github.io/SafePR/) methods for perception and reactive safety strategies in robotic applications
-      - Technical focus included interaction control, dynamics, simulation, classification and transfer learning
-      - Authored five scientific publications, including a best-paper award; co-chaired sessions and presented research at major robotics conferences (ICRA, IROS)
-      - Supervised 23 student theses and guided 17 research assistants in research and lecture projects
+      - Developed [open-source](https://aranmoha.github.io/SafePR/) methods in MATLAB and Python for perception and safety in robotics
+      - Created solutions in interaction control, modeling, ML-based classification and transfer learning
+      - Authored five scientific publications, including a [best-paper award](https://doi.org/10.1007/978-3-031-55000-3_10); co-chaired sessions and presented research at major robotics conferences (ICRA, IROS)
+      - Co-secured €400k grant for robotics-ML [project](https://gepris.dfg.de/gepris/projekt/444769341?language=en) on sensor fusion, time series modeling and motion control
       - Taught course *[Robotics II](https://www.imes.uni-hannover.de/en/studies/master-lectures/robotics-ii)* (150 students) on parallel robots, optimization, vision-based control and machine learning
+      - Supervised 23 student theses and guided 17 research assistants in research and lecture projects
   - position: Master Student
     company_name: IAV Automotive Engineering
     company_url: ''
@@ -90,14 +91,22 @@ work:
     date_end: 2020-11-30
     summary: |
       - Thesis on physics-based machine learning for emission modeling and published research results of dimensionality reduction and regression in peer-reviewed [journal](https://journals.sagepub.com/doi/full/10.1177/14680874211070736) and international [conference](https://www.sae.org/publications/technical-papers/content/2021-01-0496/) 
-  - position: Research Intern
-    company_name: UNESP - Bauru, Brazil
+  - position: DAAD-Funded Research Intern
+    company_name: UNESP, Bauru, Brazil
+    company_url: ''
+    company_logo: ''
+    date_start: 2014-11-01
+    date_end: 2018-01-15
+    summary: |
+      - Designed and executed structural analysis experiments on carbon fiber-reinforced polymers using piezoelectric membranes and MATLAB
+  - position: Tutor in Control and Modeling
+    company_name: Leibniz University Hannover, Hanover, Germany
     company_url: ''
     company_logo: ''
     date_start: 2019-10-01
     date_end: 2019-12-15
     summary: |
-      - Designed and executed structural analysis experiments on carbon fiber-reinforced polymers using piezoelectric membranes and MATLAB-based data acquisition
+      - Co-supervised courses with 50 students on control, kinematics and dynamics
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
