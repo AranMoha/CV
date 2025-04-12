@@ -1,5 +1,5 @@
 ---
-title: Poster Presentation on Combining Proprioceptive-Data-Driven Algorithms with Physical Modeling for Contact Detection and Reaction of Safe Parallel Robots
+title: German Robotics Conference - Poster Presentation on Combining Proprioceptive-Data-Driven Algorithms with Physical Modeling for Contact Detection and Reaction of Safe Parallel Robots
 
 event: 1st German Robotics Conference 2025
 event_url: https://robotics-institute-germany.de/event/first-german-robotics-conference/

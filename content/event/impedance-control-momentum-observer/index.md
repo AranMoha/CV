@@ -1,5 +1,5 @@
 ---
-title: Poster Presentation on Human-Robot Collaboration with Parallel Robots by Kinetostatic Analysis, Impedance Control and Contact Detection
+title: ICRA - Poster Presentation on Human-Robot Collaboration with Parallel Robots by Kinetostatic Analysis, Impedance Control and Contact Detection
 
 event: 2023 IEEE International Conference on Robotics and Automation
 event_url: https://www.icra2023.org/

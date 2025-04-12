@@ -1,5 +1,5 @@
 ---
-title: Presentation on Quantifying Uncertainties of Contact Classifications in a Human-Robot Collaboration with Parallel Robots
+title: HFR - Presentation on Quantifying Uncertainties of Contact Classifications in a Human-Robot Collaboration with Parallel Robots
 
 event: 2023 International Workshop on Human-Friendly Robotics
 event_url: https://sites.google.com/view/hfr2023/home
