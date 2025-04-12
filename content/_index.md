@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: uploads/resume.pdf
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
     design:
       css_class: "color: #2c2c2c;"
       background:
@@ -53,6 +53,8 @@ sections:
     design:
       view: article-grid
       columns: 3
+      # background:
+      #   color: rgb(233, 239, 243) 
   - block: collection
     id: talks
     content:
