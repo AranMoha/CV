@@ -79,8 +79,8 @@ work:
     summary: |2-
       - Developed [open-source](https://aranmoha.github.io/SafePR/) methods in MATLAB and Python for perception and safety in robotics
       - Created solutions in interaction control, modeling, ML-based classification and transfer learning
-      - Authored five scientific publications, including a [best-paper award](https://doi.org/10.1007/978-3-031-55000-3_10); co-chaired sessions and presented research at major robotics conferences (ICRA, IROS)
-      - Co-secured €400k grant for robotics-ML [project](https://gepris.dfg.de/gepris/projekt/444769341?language=en) on sensor fusion, time series modeling and motion control
+      - Authored six scientific publications, including a [best-paper award](https://doi.org/10.1007/978-3-031-55000-3_10); co-chaired sessions and presented research at major robotics conferences (RA-L, ICRA, IROS)
+      - Co-secured grant for robotics-ML [project](https://gepris.dfg.de/gepris/projekt/444769341?language=en) on sensor fusion, time series modeling and motion control
       - Taught course *[Robotics II](https://www.imes.uni-hannover.de/en/studies/master-lectures/robotics-ii)* (150 students) on parallel robots, optimization, vision-based control and machine learning
       - Supervised 23 student theses and guided 17 research assistants in research and lecture projects
   - position: Master Student
