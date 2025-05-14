@@ -72,10 +72,10 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
     design:
       view: article-grid
-      columns: 3
+      columns: 2
+
   # - block: collection
   #   id: news
   #   content:
@@ -120,9 +120,9 @@ sections:
     #   button:
     #     text: Get Started
     #     url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+    # design:
+    #   card:
+    #     # Card background color (CSS class)
+    #     css_class: "bg-primary-700"
+    #     css_style: ""
 ---
