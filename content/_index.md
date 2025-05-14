@@ -52,7 +52,7 @@ sections:
         exclude_featured: false
     design:
       view: article-grid
-      columns: 3
+      columns: 2
       # background:
       #   color: rgb(233, 239, 243) 
   - block: collection
